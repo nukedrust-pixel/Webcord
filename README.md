@@ -1,1 +1,1 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg](https://i.ibb.co/rGTfRj93/3-AF44-FB3-B7-F6-4-F20-A5-BB-40-ADD6279-E3-D.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.ibb.co/rGTfRj93/3-AF44-FB3-B7-F6-4-F20-A5-BB-40-ADD6279-E3-D.png)
